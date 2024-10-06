@@ -1,0 +1,92 @@
+{
+    "locations": [
+        {
+            "timelineObjects": [{
+              "placeVisit": {
+                "location": {
+                  "latitudeE7": 192596657,
+                  "longitudeE7": 731274877,
+                  "placeId": "ChIJofyflWSW5zsRheNYtTeCmhs",
+                  "address": "Chanakya Nagar, Khadakpada, Kalyan, Thane, Maharashtra 421301, India",
+                  "name": "Mohan Regency",
+                  "sourceInfo": {
+                    "deviceTag": 397765751
+                  },
+                  "locationConfidence": 44.278484
+                },
+                "duration": {
+                  "startTimestamp": "2017-12-25T11:03:04.310Z",
+                  "endTimestamp": "2017-12-25T12:03:56.402Z"
+                },
+                "placeConfidence": "MEDIUM_CONFIDENCE",
+                "centerLatE7": 192601542,
+                "centerLngE7": 731284703,
+                "visitConfidence": 89,
+                "otherCandidateLocations": [{
+                  "latitudeE7": 192609023,
+                  "longitudeE7": 731281825,
+                  "placeId": "ChIJj2jRkWSW5zsR1lIERD3Mf-0",
+                  "name": "Shree Complex",
+                  "locationConfidence": 23.373165
+                }, {
+                  "latitudeE7": 192601223,
+                  "longitudeE7": 731284866,
+                  "placeId": "ChIJgXhFhWSW5zsRHjVD1gGzJis",
+                  "address": "Umbarde Rd, Chanakya Nagar, Khadakpada, Kalyan, Maharashtra 421301, India",
+                  "name": "sarvoday deep",
+                  "locationConfidence": 13.748469
+                }, {
+                  "latitudeE7": 192590871,
+                  "longitudeE7": 731288292,
+                  "placeId": "ChIJxaqqqkaq5zsR33qKhDX6Erw",
+                  "address": "Shop No 21, Joy Society, Saket Paradise, Adharwadi Jail Road,, Bhagirathi Nagar, Khadakpada, Kalyan (W), Kalyan, Maharashtra 421301, India",
+                  "name": "Patanjali, PR Enterprises",
+                  "locationConfidence": 1.1400974
+                }, {
+                  "latitudeE7": 192592213,
+                  "longitudeE7": 731282153,
+                  "placeId": "ChIJH9jrumSW5zsRGJ2WmNf5b08",
+                  "address": "Sudhanshu Kiran CHS, Opp Mohan Regency, Jail Road, (W), 745H+M7P, Bhagirathi Nagar, Adharwadi, Khadakpada, Kalyan, Maharashtra 421301, India",
+                  "name": "Chirayu Clinic",
+                  "locationConfidence": 0.93237907
+                }, {
+                  "latitudeE7": 192593337,
+                  "longitudeE7": 731279370,
+                  "placeId": "ChIJHxluuWSW5zsRP8u7hStdjcM",
+                  "name": "Sachin Nashta Corner",
+                  "locationConfidence": 0.87109303
+                }, {
+                  "latitudeE7": 192596993,
+                  "longitudeE7": 731281405,
+                  "placeId": "ChIJcbsY03yW5zsRKR5-sL7DAB4",
+                  "name": "Bhavesh Super Market",
+                  "locationConfidence": 0.8557975
+                }, {
+                  "latitudeE7": 192592346,
+                  "longitudeE7": 731279477,
+                  "placeId": "ChIJ9-cmumSW5zsRL8Kw0dbZUZU",
+                  "name": "DB chowk",
+                  "locationConfidence": 0.7217823
+                }, {
+                  "latitudeE7": 192591726,
+                  "longitudeE7": 731290884,
+                  "placeId": "ChIJP8E7qGSW5zsRbhXZfy4yj4c",
+                  "address": "745H+MJF, Raunak City Rd, Bhagirathi Nagar, Chanakya Nagar, Khadakpada, Kalyan, Maharashtra 421301, India",
+                  "name": "Lemon Chilly",
+                  "locationConfidence": 0.6735095
+                }, {
+                  "latitudeE7": 192594948,
+                  "longitudeE7": 731279695,
+                  "placeId": "ChIJWaEwvGSW5zsR6ozHkRA4G_E",
+                  "name": "Saloon",
+                  "locationConfidence": 0.63944864
+                }],
+                "editConfirmationStatus": "NOT_CONFIRMED",
+                "locationConfidence": 37,
+                "placeVisitType": "SINGLE_PLACE",
+                "placeVisitImportance": "MAIN"
+              }
+            }]
+          }
+    ]
+  }
