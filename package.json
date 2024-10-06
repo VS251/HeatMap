@@ -9,6 +9,6 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Brandon Morelli",
+  "author": "Varun Salian",
   "license": "MIT"
 }
