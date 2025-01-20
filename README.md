@@ -6,9 +6,9 @@ A web application to visualize location data from location history using Google 
 
 ## Features
 
-- Location Visualization: Visualizes location history data using Google Maps.
-- Heatmap Overlay: Integrates a heatmap to display location density.
-- Local Storage: Uses the local file system to handle over 5MB of location history data.
+- Location Visualization: Displays location history data on an interactive map using the Google Maps API.
+- Heatmap Overlay: Enhances the map with a heatmap to represent location density and patterns.
+- Local Storage: Utilizes local storage to handle and persist location history data efficiently.
 - Routing: Implements routing between pages with Express and jQuery.
 - Interactive Map: Allows interaction with the map and real-time heatmap updates.
 
